@@ -166,80 +166,85 @@
     }
   },
   "2": {
-    "word": "",
+    "word": "малх",
     "word_type": "WORD",
     "RUS": {
-      "trans": "",
-      "description": ""
+      "trans": "солнце",
+      "description": "одна из звёзд нашей Галактики (Млечный Путь) и единственная звезда Солнечной системы."
     },
     "ENG": {
-      "trans": "",
-      "description": ""
+      "trans": "sun",
+      "description": "The Sun is the star at the center of the Solar System."
     },
-    "plural_form": "",
-    "homonym": "",
-    "synonym": "",
-    "antonym": "",
-    "other_form": "",
-    "temp_ru": "",
-    "temp_en": "",
-    "latin_version": "",
+    "plural_form": "малхнаш",
+    "homonym": "мархнаш",
+    "synonym": "седа",
+    "antonym": "тӀурнене",
+    "other_form": "самукъне",
+    "temp_ru": "малх",
+    "temp_en": "sun",
+    "latin_version": "malkh",
     "uncensored_word": false,
-    "description": "",
-    "special_case_description": "",
+    "description": "Маьлхан системехь цхьаъ бен боцу седа. Иштта Малхан гонах хьийза оцу системи кхийолу а объекташ: планеташ а, цера спутникаш а, кегий планеташ а, астероидаш а, метиориташ а, кометаш а, космосан чан а",
+    "special_case_description": "кхузахь язъян дезаш хӀумма дац",
     "comments": [],
     "grammar": {
       "_comment": [
         "order увеличивающеесе значение, при каждой новой записи прибавить 1"
       ],
       "root": {
-        "root":"",
+        "root":"ма",
         "comments": []
       },
       "prefix": [
         {
-          "prefix": "",
+          "prefix": "мал",
           "order": 1,
           "comments": []
         }
       ],
       "suffix": [
         {
-          "suffix": "",
+          "suffix": "л",
           "order": 1,
           "comments": []
         }
       ],
       "endings": [
         {
-          "ending": "",
+          "ending": "ха",
           "comments": []
         }
       ],
       "syllable": [
         {
-          "syllable": "",
+          "syllable": "мал",
           "order": 1,
+          "comments": []
+        },
+        {
+          "syllable": "ха",
+          "order": 2,
           "comments": []
         }
       ],
       "declension_not_human": {
-        "nominative": "",
-        "genitive": "",
-        "dative": "",
-        "ergative": "",
-        "instrumental": "",
-        "material": "",
-        "comparative": "",
-        "locative": "",
-        "locative_1": "",
-        "locative_2": "",
-        "locative_3": "",
-        "locative_4": "",
-        "locative_5": "",
-        "locative_6": "",
-        "locative_7": "",
-        "terminative": "",
+        "nominative": "малха",
+        "genitive": "малхан",
+        "dative": "малханна",
+        "ergative": "малхан",
+        "instrumental": "малханца",
+        "material": "малхех",
+        "comparative": "малхел",
+        "locative": "малхега",
+        "locative_1": "малхе",
+        "locative_2": "малхехь",
+        "locative_3": "малхехьа",
+        "locative_4": "малхера",
+        "locative_5": "малхехьара",
+        "locative_6": "малхехула",
+        "locative_7": "малхехьахула",
+        "terminative": "малхаллц",
         "comments": []
       },
       "declension_human": {
@@ -279,7 +284,7 @@
             "@param {String} noun_class - могут быть использованы следующие типы: ",
               "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
           ],
-          "noun_class": "4_class",
+          "noun_class": "6_class",
           "comments": []
         },
         "comments": []
@@ -298,10 +303,10 @@
       }
     },
     "phonetic": {
-      "transcription": "",
+      "transcription": "malkh",
       "transcription_v1": "",
       "transcription_v2": "",
-      "cyrillic_transcription": "",
+      "cyrillic_transcription": "малх",
       "ipa": "",
       "azbat": "",
       "comments": []
