@@ -1,0 +1,2291 @@
+{
+  "1": {
+    "word": "Ӏа",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "зима",
+      "description": "ӏа доьлла - наступила зима; ӏа даккха провести зиму, перезимовать"
+    },
+    "ENG": {
+      "trans": "winter",
+      "description": "ӏа доьлла - winter has come; ӏа даккха - hang out over the winter"
+    },
+    "plural_form": "ӏаьнаш",
+    "homonym": "ӏаьмнаш",
+    "synonym": "гуьйре",
+    "antonym": "бӏаьсте",
+    "other_form": "бӏаьсте-ӏаьмнаш",
+    "temp_ru": "зима",
+    "temp_en": "winter",
+    "latin_version": "a",
+    "uncensored_word": false,
+    "description": "шеран заманах еаннах цхьаъ, гуьйренна а, бӀаьстенна а юкъахь. Оцу шеран заманан коьрта хьесап — дукхаха йолчу Дуьнеан кӀошташкахь хӀоьттина лахара температура (Цельсин 0 градусал лахара), ло латта тӀе оьгу, лаьтта охьадуьллу.",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "root": {
+        "root":"ӏа",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "ӏа",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "ӏа",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "ӏа",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "ӏа",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "ӏа",
+        "genitive": "ӏаьнан",
+        "dative": "ӏаьнна",
+        "ergative": "ӏаьн",
+        "instrumental": "ӏаьнца",
+        "material": "ӏаьнах",
+        "comparative": "ӏаьнал",
+        "locative": "ӏаьне",
+        "locative_1": "ӏаьне",
+        "locative_2": "ӏаьнахь",
+        "locative_3": "ӏаьнхьа",
+        "locative_4": "ӏаьнара",
+        "locative_5": "ӏаьнхьара",
+        "locative_6": "ӏаьнахула",
+        "locative_7": "ӏаьнхьахула",
+        "terminative": "ӏаьнналц",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "Шеран шийла хан. Декабарь баттахь йолало, Февраль баттахь чакх а йолу",
+        "source": "https://google.com",
+        "noun_class": {
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "а",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "ӏа",
+      "ipa": "'а",
+      "azbat": "ӏа",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "dialect": "akkish",
+          "dialect_variant": "ӏа",
+          "description": "Аьккхин диалектехь ӏа дош хицлуш дац",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "ce_abbr": "ӏал.",
+        "ce_desc": "ӏалам",
+        "ru_abbr": "прир.",
+        "ru_desc": "природа",
+        "en_abbr": "nat.",
+        "en_desc": "nature",
+        "comments": []
+      },
+      "phraseologies": [
+        {
+          "phrase": "Нохчийчохь Ӏа — Ӏаламехь уггар шийла хан ю. Маца юлу Ӏаьнан чилла. Муха хуур ду Ӏа доьлча? Халкъо олуш ду: «Малх цӀа кхаьчча Ӏа дулу». Иза нийса ду. Де уггар дацделла хан хуьлу иза. Цул тӀаьхьа догӀуш долу масех де кхин хийца ца луш лаьтта.",
+          "source": "https://ce.wikipedia.org/wiki/%D3%80%D0%B0_(%D1%88%D0%B5%D1%80%D0%B0%D0%BD_%D0%B7%D0%B0%D0%BC%D0%B0)",
+          "comments": []
+        },
+        {
+          "phrase": "«Малх цӀа кхаьчча Ӏа дулу»",
+          "source": "https://ce.wikipedia.org/wiki/%D3%80%D0%B0_(%D1%88%D0%B5%D1%80%D0%B0%D0%BD_%D0%B7%D0%B0%D0%BC%D0%B0)",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "2": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "3": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "4": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "5": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "6": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "7": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "8": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "9": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "10": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "11": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  },
+  "12": {
+    "word": "",
+    "word_type": "WORD",
+    "RUS": {
+      "trans": "",
+      "description": ""
+    },
+    "ENG": {
+      "trans": "",
+      "description": ""
+    },
+    "plural_form": "",
+    "homonym": "",
+    "synonym": "",
+    "antonym": "",
+    "other_form": "",
+    "temp_ru": "",
+    "temp_en": "",
+    "latin_version": "",
+    "uncensored_word": false,
+    "description": "",
+    "special_case_description": "",
+    "comments": [],
+    "grammar": {
+      "_comment": [
+        "order увеличивающеесе значение, при каждой новой записи прибавить 1"
+      ],
+      "root": {
+        "root":"",
+        "comments": []
+      },
+      "prefix": [
+        {
+          "prefix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "suffix": [
+        {
+          "suffix": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "endings": [
+        {
+          "ending": "",
+          "comments": []
+        }
+      ],
+      "syllable": [
+        {
+          "syllable": "",
+          "order": 1,
+          "comments": []
+        }
+      ],
+      "declension_not_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "declension_human": {
+        "nominative": "",
+        "genitive": "",
+        "dative": "",
+        "ergative": "",
+        "instrumental": "",
+        "material": "",
+        "comparative": "",
+        "locative": "",
+        "locative_1": "",
+        "locative_2": "",
+        "locative_3": "",
+        "locative_4": "",
+        "locative_5": "",
+        "locative_6": "",
+        "locative_7": "",
+        "terminative": "",
+        "comments": []
+      },
+      "part_of_speech": {
+        "_comment": [
+          "@param {String} type - могут быть использованы следующие типы: ",
+            "NOUN, VERB, ADVERB, ADJECTIVE, PRONOUN, PREPOSITION",
+            "CONJUNCTION, INTERJECTION, NUMERAL, PARTICLE, PHRASE",
+          "@param {String} type_free_form - is optional, can be empty string",
+          "@param {String} description - is optional, can be empty string",
+          "@param {String} source - is optional, can be empty string"
+        ],
+        "type": "NOUN",
+        "type_free_form": "noun",
+        "description": "",
+        "source": "https://google.com",
+        "noun_class": {
+          "_comment": [
+            "@param {String} noun_class - могут быть использованы следующие типы: ",
+              "1_class, 2_class, 3_class, 4_class, 5_class, 6_class"
+          ],
+          "noun_class": "4_class",
+          "comments": []
+        },
+        "comments": []
+      },
+      "tense": {
+        "present": "",
+        "recently_past": "",
+        "obvious_past": "",
+        "past_perfect": "",
+        "long_past": "",
+        "past_imperfect": "",
+        "past_complex": "",
+        "future_simple": "",
+        "future_complex": "",
+        "comments": []
+      }
+    },
+    "phonetic": {
+      "transcription": "",
+      "transcription_v1": "",
+      "transcription_v2": "",
+      "cyrillic_transcription": "",
+      "ipa": "",
+      "azbat": "",
+      "comments": []
+    },
+    "word_meta": {
+      "dialects": [
+        {
+          "_comment": [
+            "@param {String} dialect - могут быть использованы следующие типы: ",
+              "akkish, malkhish, itumqalish, sharoish, chebarloish, galanchoish"
+          ],
+          "dialect": "",
+          "dialect_variant": "",
+          "description": "",
+          "special_case_description": "",
+          "comments": []
+        }
+      ],
+      "semantic_domain": {
+        "_comment": [
+          "@param {String} *_abbr - сокращение область использования слова",
+          "@param {String} *_desc - развертанное значение области использования слова"
+        ],
+        "ce_abbr": "",
+        "ce_desc": "",
+        "ru_abbr": "",
+        "ru_desc": "",
+        "en_abbr": "",
+        "en_desc": "",
+        "comments": []
+      },
+      "phraseologies": [
+        {"_comment": [
+          "@param {String} phrase - Фраза в составе которой находится расматриваемое значение",
+          "@param {String} source - Сылка на источник, откуда была взята данная фраза: книга, газета, интернет ресурс"
+        ]},
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        },
+        {
+          "phrase": "",
+          "source": "",
+          "comments": []
+        }
+      ],
+      "etymology": [
+        {
+          "etymology": "",
+          "source": "",
+          "comments": []
+        }
+      ]
+    }
+  }
+}
